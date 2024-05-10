@@ -1,10 +1,8 @@
-lista = []
 count = 0
 for i in range(6):
     a = input()
     if a == 'V':
         count+=1
-    lista.append(a)
 
 if count == 1 or count == 2:
     print(3)

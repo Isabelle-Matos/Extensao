@@ -6,7 +6,6 @@ for i in range(n):
     x = int(input())
     estoque.append(x)
 
-
 p = int(input())
 
 total = 0

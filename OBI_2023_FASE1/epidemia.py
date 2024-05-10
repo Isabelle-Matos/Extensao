@@ -9,7 +9,7 @@ while True:
     prod *= R
     total += prod
     i+= 1
-    
+
     if total == P or total > P:
         break
 
