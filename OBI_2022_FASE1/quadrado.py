@@ -28,3 +28,4 @@ for i in lista:
 print(num)
 print(linha+1)
 print(coluna+1)
+
